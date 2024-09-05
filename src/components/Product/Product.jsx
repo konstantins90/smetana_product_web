@@ -13,11 +13,11 @@ const Product = () => {
                     <h2 className="text-3xl font-bold">
                         Innovative Technologie für Ihr Wohlbefinden
                     </h2>
-                    <h1 className='text-2xl'>
+                    <h1 className='text-2xl mt-5'>
                         Erleben Sie die Zukunft der Hydration mit der CellPower Wasserstoff Wasserflasche
                     </h1>
                 </div>
-                <p>Die CellPower Wasserstoff Wasserflasche von LUMIVITEA ist mehr als nur eine gewöhnliche Flasche. Sie nutzt modernste Elektrolisetechnologie, um Ihre Wasseraufnahme mit reinem Wasserstoff anzureichern. Dies verbessert nicht nur die Hydration, sondern unterstützt auch Ihre Gesundheit und Vitalität. Ideal für alle, die auf der Suche nach einem effektiven Weg sind, ihre Flüssigkeitszufuhr zu optimieren und gleichzeitig von den gesundheitsfördernden Eigenschaften von Wasserstoff zu profitieren.</p>
+                <p className='text-center'>Die CellPower Wasserstoff Wasserflasche von LUMIVITEA ist mehr als nur eine gewöhnliche Flasche. Sie nutzt modernste Elektrolisetechnologie, um Ihre Wasseraufnahme mit reinem Wasserstoff anzureichern. Dies verbessert nicht nur die Hydration, sondern unterstützt auch Ihre Gesundheit und Vitalität. Ideal für alle, die auf der Suche nach einem effektiven Weg sind, ihre Flüssigkeitszufuhr zu optimieren und gleichzeitig von den gesundheitsfördernden Eigenschaften von Wasserstoff zu profitieren.</p>
             </div>
         </div>
     );
